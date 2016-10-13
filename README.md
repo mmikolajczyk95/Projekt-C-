@@ -14,7 +14,7 @@ DANE TECHNICZNE:
 Projekt będzie wykonany w środowisku Qt.
 
 HARMONOGRAM PRACY:
-10.11.2016r. - Kalkulator, przeliczanie jesdnostek i obliczanie daty
-01.12.2016r. - Kursy walut i Prototyp
-05.01.2017r. - Rysowanie wykresów
-12.01.2017r. - Oddanie końcowego projektu
+- 10.11.2016r. - Kalkulator, przeliczanie jesdnostek i obliczanie daty
+- 01.12.2016r. - Kursy walut i Prototyp
+- 05.01.2017r. - Rysowanie wykresów
+- 12.01.2017r. - Oddanie końcowego projektu
