@@ -16,7 +16,7 @@ Projekt będzie wykonany w środowisku Qt.
 HARMONOGRAM PRACY:
 - 06.11.2016r. - Kalkulator
 - 20.11.2016r. - Obliczanie daty 
-- 01.12.2016r. - Przeliczanie jesdnostek i Prototyp
+- 01.12.2016r. - Przeliczanie jednostek i prototyp
 - 10.12.2016r. - Kursy walut
 - 21.12.2016r. - Rysowanie wykresów
 - 05.01.2017r. - Optymalizacja
