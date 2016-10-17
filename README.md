@@ -2,9 +2,8 @@ Projekt C++
 
 OPIS PROJEKTU:
 Ukończony kalkulator będzie działał na komputerach z systemem Windows oraz będzie posiadał minimalistyczny, przejrzysty dla użytkownika interfejs. Będzie pomagał uczniom obliczać potrzebne zadania matematyczne, pomoże specjalistom w konwertowaniu użytecznych jednnostek (np. KM->kW) i już zawsze będziesz wiedział ile Twoje auto ma "koni mechanicznych". Zagubionym pomoże odnaleźć aktualny czas dzięki wbudowanej opcji. Osobom w podróży na pewno przyda się opcja zawsze aktualnego kursu walut (1). A jeśli nie masz dostępu do Internetu - nie przejmuj się, będziesz miał do nich dostęp offline (2)! Osobom, które chcą zobaczyć więcej narysuje też wykres funkcji trygonometrycznych. Oto "Kalkulajtor" - pomocne narzędzie dla każdego. Zawsze. Wszędzie.
-
--(1) konieczne połączenie internetowe
--(2) dostęp offline tylko gdy co najmniej raz zaktualizuje się dane z Internetu
+- (1) konieczne połączenie internetowe
+- (2) dostęp offline tylko gdy co najmniej raz zaktualizuje się dane z Internetu
 
 FUNKCJONALNOŚCI:
 - kalkulator z podstawowymi operacjami arytmetycznymi
