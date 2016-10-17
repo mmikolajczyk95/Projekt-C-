@@ -15,7 +15,7 @@ FUNKCJONALNOŚCI:
 - rysowanie wykresów trygonometrycznych
 
 DANE TECHNICZNE:
-Projekt będzie wykonany w środowisku Qt.
+Projekt będzie wykonany w środowisku Qt na komputery z systemem Windows.
 
 WSTĘPNE WYMAGANIA:
 - system operacyjny: Windows 8,8.1,10(32bit)
